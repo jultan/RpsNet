@@ -1,6 +1,5 @@
-# RpsNet
-An online Rock-Paper-Scissors game made in Java using Kryonet and LibGDX, complete with a fully functional matchmaking system!
-There is a client and a server project.
+# CHIFOUMI
+Célèbre jeu en modèle client-serveur, utilisant LibGDX et Kryonet.
 
 # Client
 Users run the client, input the IP address that the server is running on and a player name, and are then connected to the server.
